@@ -108,5 +108,5 @@ We are deeply appreciative of all these individuals and resources that played a 
 Our Face Mask Detection System represents a remarkable achievement in the fields of computer vision, deep learning, and artificial intelligence. In a world adapting to new norms, our project stands as a beacon of innovation, providing a practical solution for enforcing mask-wearing protocols. With the combined power of Raspberry Pi, AWS, Tensorflow, and OpenCV, we've created a system that not only identifies faces but also contributes to public health and safety.
 
 
-[![Demo Video](https://link-to-demo-video-thumbnail.png)](https://link-to-demo-video)
-[![Setup Video](https://link-to-setup-video-thumbnail.png)](https://link-to-setup-video)
+[Demo Video](https://drive.google.com/file/d/1L32h-_T6HOKA2HPxrAeY-XAqFAfa8FBg/view?usp=sharing)
+[Setup Video](https://drive.google.com/file/d/1QpgT8h-F0elhw0hWAzkBceALsIng-mhd/view?usp=sharing)
